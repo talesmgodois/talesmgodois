@@ -31,5 +31,3 @@ Here are some ideas to get you started:
   <img align="center" alt="Talez-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Tales-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
 </div>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6222564a-bfe7-45e9-938e-f0d61b4750d0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
